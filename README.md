@@ -1,2 +1,2 @@
-# zimacloud.github.io
+# ZIMA Cloud Product documentation
 Repository for Zima Cloud product documentation
